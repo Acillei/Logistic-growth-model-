@@ -1,0 +1,6 @@
+TÊN BỘ DỮ LIỆU: Dân số tổng cộng Việt Nam (1960 - 2024)
+NGUỒN GỐC: World Bank Open Data (Indicator ID: SP.POP.TOTL, Country: VNM)
+TRUY XUẤT TỪ: https://data.worldbank.org/indicator/SP.POP.TOTL?locations=VN
+GIẤY PHÉP SỬ DỤNG: Creative Commons Attribution 4.0 International (CC BY 4.0)
+ĐƠN VỊ ĐO: Người (Population_Total) và Triệu người (Population_Millions)
+SỐ QUAN TRẮC SẠCH: 65 năm liên tục (1960 - 2024)
